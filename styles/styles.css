@@ -1,0 +1,19 @@
+@import "reset.css";
+@import "layout.css";
+@font-face {
+  font-family: ProxsimaNova;
+
+  src: url(../Fonts/ProximaNovaLight.otf);
+}
+@font-face {
+  font-family: TTDrugs;
+  font-weight: 300;
+
+  src: url(../Fonts/TTDrugs-Light.ttf);
+}
+@font-face {
+  font-family: TTDrugs;
+  font-weight: 700;
+
+  src: url(../Fonts/TTDrugs-Bold.ttf);
+}
