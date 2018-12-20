@@ -60,7 +60,7 @@ h1 {
   position: relative;
 
   width: 100vw;
-  margin-top: 10vw;
+  margin-top: 6vw;
 }
 .content .con {
   width: 66vw;
@@ -126,7 +126,8 @@ h3 {
   line-height: 1.3vw;
 }
 .content h3:nth-child(3) {
-  width: 53vw;
+  width: 53vw;
+
   margin-top: 5vw;
   margin-left: 7vw;
 
@@ -268,7 +269,8 @@ a {
     position: initial;
 
     width: auto;
-    height: auto;
+    height: auto;
+
     margin-top: 27vw;
     margin-left: 9vw;
 
@@ -286,7 +288,8 @@ a {
   .content .card p {
     width: 79vw;
 
-    font-size: 5.5vw;
+    font-size: 5.5vw;
+
     line-height: 6vw;
   }
   .content .card:nth-of-type(3) {
@@ -296,7 +299,8 @@ a {
     margin-top: -19vw;
   }
   .content .card:last-child {
-    height: 46vw;
+    height: 46vw;
+
     margin-top: -24vw;
   }
   .scroll + h3 {
@@ -305,7 +309,8 @@ a {
   .spetial {
     position: relative;
 
-    margin-top: 20vw;
+    margin-top: 20vw;
+
     margin-bottom: 0;
   }
   .spetial h3 {
@@ -337,7 +342,8 @@ a {
   .spetial .card h4 {
     color: rgb(52, 53, 55);
 
-    font-size: 8vw;
+    font-size: 8vw;
+
     line-height: 8vw;
   }
   .spetial .card img {
@@ -376,7 +382,8 @@ a {
     height: 21vw;
   }
   .foot {
-    font-size: 3vw;
+    font-size: 3vw;
+
     line-height: 1.9vw;
   }
   .foot p + p {
