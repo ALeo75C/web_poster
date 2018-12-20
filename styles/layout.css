@@ -72,6 +72,7 @@ h3 {
 }
 .content p {
   width: 65vw;
+  margin-top: 2vw;
 
   font-size: 2vw;
   line-height: 2.6vw;
@@ -134,7 +135,7 @@ h3 {
 }
 
 .spetial {
-  margin-top: 21vw;
+  margin-top: 24vw;
   margin-bottom: 23vw;
 }
 .spetial h3 {
@@ -227,7 +228,7 @@ a {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .sBig {
     display: none;
   }
